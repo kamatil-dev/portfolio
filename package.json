@@ -11,7 +11,7 @@
     "@headlessui/vue": "^1.7.14",
     "@heroicons/vue": "^2.0.18",
     "gsap": "^3.11.5",
-    "puppeteer": "^20.5.0",
+    "puppeteer": "^22.13.1",
     "tailwindcss": "^3.3.2",
     "v-lazy-image": "^2.1.1"
   },
