@@ -8,7 +8,7 @@
     "start": "node .output/server/index.mjs"
   },
   "dependencies": {
-    "@headlessui/vue": "^1.7.14",
+    "@headlessui/vue": "^1.7.23",
     "@heroicons/vue": "^2.0.18",
     "gsap": "^3.11.5",
     "puppeteer": "^20.5.0",
